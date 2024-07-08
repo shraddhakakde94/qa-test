@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # qa-test
 
 **Kubernetes Deployment:**
@@ -23,3 +24,6 @@ Deploy the services to a local Kubernetes cluster (e.g., Minikube or Kind).
 - README file with setup and execution instructions.
 
 **Github repo should be Public**
+=======
+# qa-test
+>>>>>>> 2848216a46443dae23a05f49139ad03719013e03
